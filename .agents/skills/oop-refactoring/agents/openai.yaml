@@ -1,0 +1,4 @@
+interface:
+  display_name: "OOP Refactoring"
+  short_description: "Refactor code with practical OOP."
+  default_prompt: "Use $oop-refactoring to refactor this code with practical OOP while preserving behavior."
