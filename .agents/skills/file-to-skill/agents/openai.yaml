@@ -1,0 +1,4 @@
+interface:
+  display_name: "File to Skill"
+  short_description: "Convert a source file into a Codex skill."
+  default_prompt: "Use $file-to-skill to convert this source file into a proper Codex skill."
