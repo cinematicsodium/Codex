@@ -1,0 +1,4 @@
+interface:
+  display_name: "Nothing Design"
+  short_description: "Nothing-inspired UI/UX design system."
+  default_prompt: "Use the Nothing design system."
