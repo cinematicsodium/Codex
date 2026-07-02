@@ -1,0 +1,4 @@
+interface:
+  display_name: "Simplify Constants"
+  short_description: "Minimal, behavior-safe constants refactoring"
+  default_prompt: "Use $simplify-constants to reduce this shared constants module to true cross-module invariants."
