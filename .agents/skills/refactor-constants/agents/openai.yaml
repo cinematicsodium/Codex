@@ -1,0 +1,4 @@
+interface:
+  display_name: "Refactor Constants"
+  short_description: "Localize constants to their owning modules"
+  default_prompt: "Use $refactor-constants to reduce constants.py to genuinely shared application constants."
